@@ -5,6 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincolnsantiago07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnsantiago07&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+## *Habilidades* &nbsp; <img width="40" src="https://user-images.githubusercontent.com/75453961/118220101-36d1c580-b451-11eb-9eda-9f53643378e0.gif">
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Lincoln-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lincoln-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
