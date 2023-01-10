@@ -2,7 +2,7 @@
 
 ## Who am I? 
 
-👨‍💻 I'm a web development student at [Fagammon](https://www.fagammon.edu.br) School.
+👨‍💻 I'm a web development student at [Fagammon](https://www.fagammon.edu.br) College.
  </br>
  <div style="display: inline_block"><p>📍 I'm from Lavras - MG, Brazil.
   <img align="center" alt="Lincoln-brazil" src="https://img.icons8.com/color/50/000000/brazil-circular.png">
