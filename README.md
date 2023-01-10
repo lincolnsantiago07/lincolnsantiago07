@@ -1,8 +1,17 @@
-### Oii! Eu sou o Lincoln Santiago
+### Hi! I'm Lincoln Santiago 🤓
+
+## Who am I? 
+
+👨‍💻 I'm a web development student at [Fagammon](https://www.fagammon.edu.br) School.
+ </br>
+ <div style="display: inline_block"><p>📍 I'm from Lavras - MG, Brazil.
+  <img align="center" alt="Lincoln-brazil" src="https://img.icons8.com/color/50/000000/brazil-circular.png">
+ </div>
 
 <div align="center">
   <a href="https://github.com/lincolnsantiago07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincolnsantiago07&show_icons=true&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnsantiago07&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
 ## *Habilidades* &nbsp; <img width="40" src="https://user-images.githubusercontent.com/75453961/118220101-36d1c580-b451-11eb-9eda-9f53643378e0.gif">
