@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/lincolnsantiago07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincolnsantiago07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnsantiago07&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
 </div>
   
 ## *Habilidades* &nbsp; <img width="40" src="https://user-images.githubusercontent.com/75453961/118220101-36d1c580-b451-11eb-9eda-9f53643378e0.gif">
