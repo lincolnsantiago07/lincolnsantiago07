@@ -1,4 +1,4 @@
-### Hi! I'm Lincoln Santiago 🤓
+### Hi! I'm Lincoln Santiago 🤓 👩‍💻
 
 ## Who am I? 
 
