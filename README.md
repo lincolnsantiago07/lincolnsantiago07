@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/lincolnsantiago07">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lincolnsantiago07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnsantiago07&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnsantiago07&layout=compact&langs_count=6&theme=dracula"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lincolnsantiago07)
 
